@@ -15,7 +15,6 @@ I enjoy learning by building real projects and exploring how software, data, and
 - **Java:** JPA, Hibernate, Maven
 - **Data:** Data Modeling, Database Design
 - **Tools:** Git, GitHub, IntelliJ IDEA
-- **Web Development:** HTML, CSS, React, Next.js
 
 ---
 
@@ -38,16 +37,6 @@ Worked on practical data analysis and visualization projects using Python.
 - Data visualization
 - Sentiment analysis
 - Pandas and Matplotlib
-
-### 💅 Nailora
-A modern e-commerce website project focused on nail products and online shopping.
-
-- Product catalog
-- Shopping cart
-- Checkout flow
-- Admin dashboard
-- PostgreSQL database
-- Next.js and React
 
 ---
 
