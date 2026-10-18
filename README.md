@@ -1,6 +1,6 @@
 # Hi, I'm Afia Anwar 👋
 
-### Aspiring Software Engineer | Java | Python | Spring Framework
+### Aspiring Software Engineer | Java | Python 
 
 I'm a beginner software developer building practical projects while developing my skills in software engineering, data analysis, and web development.
 
@@ -10,7 +10,7 @@ I enjoy learning by building real projects and exploring how software, data, and
 
 ## 💻 Technical Skills
 
-- **Languages:** Java, Python, JavaScript, SQL
+- **Languages:** Java, Python, JavaScript
 - **Backend:** Spring Framework, Spring Boot, REST APIs
 - **Java:** JPA, Hibernate, Maven
 - **Data:** Data Modeling, Database Design
@@ -37,13 +37,21 @@ Worked on practical data analysis and visualization projects using Python.
 - Data visualization
 - Sentiment analysis
 - Pandas and Matplotlib
+  
+ #### 📱 Product Management Job Simulation — Forage
+Formulated feature requirements, mapped user journeys, and structured product lifecycle plans.
+* Formulated product feature ideas and user personas
+* Analyzed user flows and structured product feature roadmaps
+* Evaluated feature feasibility and product delivery metrics
 
 ---
 
 ## 📜 Certifications
 
-- **Wells Fargo Software Engineering Job Simulation — Forage**
+- **Wells Fargo Software Engineering Job Simulation** — Forage
+- **Product Management Job Simulation** — Forage
 - **CodeAlpha Data Science Internship**
+- **Data Science Certification** — DigiSkills
 
 ---
 
@@ -52,14 +60,12 @@ Worked on practical data analysis and visualization projects using Python.
 - Software Engineering
 - Java & Spring Boot
 - Database Design
-- Full-Stack Web Development
-- Data Structures & Algorithms
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/afia-anwar-279a5a427)
+- 💼 [LinkedIn](www.linkedin.com/in/afia-anwar-stem)
 - 🐙 [GitHub](https://github.com/moonhours8-sketch)
 
 ---
