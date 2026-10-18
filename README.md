@@ -65,7 +65,7 @@ Formulated feature requirements, mapped user journeys, and structured product li
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/afia-anwar-stem)
+- 💼 [LinkedIn](https://linkedin.com/in/afia-anwar-stem)
 - 🐙 [GitHub](https://github.com/moonhours8-sketch)
 
 ---
